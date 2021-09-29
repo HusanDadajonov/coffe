@@ -741,6 +741,11 @@ img {
     font-size: 28px;
   }
 }
+@media screen and (max-width:900px){
+  .works__line-box{
+    width: 750px;
+  }
+}
 @media screen and (max-width:860px) {
   .works__line-box{
     width: 600px;
