@@ -400,3 +400,14 @@ img {
     font-size: 40px;
   }
 }
+@media screen and (max-width:400px) {
+  .our-collection__bg-text{
+    font-size: 35px;
+  }
+} 
+
+@media screen and (max-width:360px) {
+  .our-collection__bg-text{
+    font-size: 25px;
+  }
+} 
